@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{19187BD5-4B54-46D6-E83B-8AB279B93D9A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GauntletTutorial",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "Gauntlet",
+			"Enabled": true
+		}
+	]
+}
